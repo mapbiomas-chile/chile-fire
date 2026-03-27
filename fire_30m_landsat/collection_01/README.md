@@ -7,7 +7,7 @@ Detailed documentation for Collection 01 of Chile Fire.
 - **Status**: In progress
 - **Satellite/Data source**: Landsat 30m
 - **Collection version**: 01
-- **Release date**: To be defined
+- **Release date**: July 2026
 
 ## Responsibilities
 
